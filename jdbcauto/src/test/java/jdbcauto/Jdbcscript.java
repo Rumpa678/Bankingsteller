@@ -18,6 +18,7 @@ public class Jdbcscript {
 		System.out.println(data+"  "+data1);
 		con.close();
 		// TODO Auto-generated method stub,un.pwd
+		//code should be run
 
 	}
 
