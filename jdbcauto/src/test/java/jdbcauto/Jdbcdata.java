@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 import com.mysql.jdbc.Driver;
 
-public class Jdbcdata {
+public class Jdbcdata {      //bsds
 
 	public static void main(String[] args) throws SQLException {
 		Driver driver=new Driver();
